@@ -31,3 +31,6 @@ If you are interested in any of the topics we've covered today, here is a short 
 - Gibb et al. 2026, The anthropogenic fingerprint on emerging infectious diseases. Nature (forthcoming; preprint on medRxiv) https://www.medrxiv.org/content/10.1101/2024.05.22.24307684v1
 - Mordecai 2023. Tackling climate change and deforestation to protect against vector-borne diseases. Nature Microbiology. https://www.nature.com/articles/s41564-023-01533-5  
 
+## Contact details
+
+Feel free to get in touch with me (rory.gibb@ucl.ac.uk) if you have questions or would like to learn more about the topics we teach and research at PNL.
