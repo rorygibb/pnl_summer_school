@@ -34,3 +34,8 @@ If you are interested in any of the topics we've covered today, here is a short 
 ## Contact details
 
 Feel free to get in touch with me (rory.gibb@ucl.ac.uk) if you have questions or would like to learn more about the topics we teach and research at PNL.
+
+## System map put together in the practical
+
+![Alt text](practical/SummerSchool_DengueInterventionsMao.jpg)
+_Here is the map of interventions you put together during our discussion today - well done!_
